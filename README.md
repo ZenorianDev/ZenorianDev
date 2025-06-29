@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reanne Martinez! 
-I'm a software developer passionate about building clean, scalable, and creative solutions. I like to code in silence and let the work speak for itself.
+I'm a software engineering student; passionate about building clean, scalable, and creative solutions. I like to code in silence and let the work speak for itself.
 
 
 <!---
