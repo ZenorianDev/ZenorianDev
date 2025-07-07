@@ -30,7 +30,7 @@ I'm an <strong>aspiring Full Stack Developer</strong> and <strong>Game Developer
 <br> 
 
   <p align="center">
-    My vision is to become a versatile and impactful Full Stack Developer and Game Developer, creating meaningful digital solutions and immersive experiences. I aim to build applications and games that not only solve real-world problems but also inspire and engage users. With a commitment to continuous learning and innovation, I strive to grow alongside evolving technologies and contribute positively to the tech community.
+    My vision is to become a versatile and impactful Full Stack Developer and Game Developer, creating meaningful digital solutions and immersive experiences. I aim to build applications and games that not only solve real-world problems but also inspire and engage users. With a commitment to turning fiction into reality through continuous learning and innovation, I strive to grow alongside evolving technologies and contribute positively to the tech community.
   </p>
 </details>
 
