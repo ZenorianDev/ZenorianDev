@@ -9,7 +9,7 @@
 </summary>
 
 <p align="center">
-  I'm a passionate <strong>Software Engineering student</strong> currently studying at <strong>Lithan eduClaaS Singapore</strong> and pursuing my <strong>Bachelor of Science in Information Technology – Software Engineering</strong> at <strong>First City Providential College</strong>.
+  I'm a passionate <strong>Software Engineering student</strong> currently studying at <strong>Lithan eduCLaaS Singapore</strong> and pursuing my <strong>Bachelor of Science in Information Technology – Software Engineering</strong> at <strong>First City Providential College</strong>.
 </p>
 
 <p>
