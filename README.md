@@ -13,7 +13,7 @@
 </p>
 
 <p>
-I'm an <strong>aspiring Full Stack Developer</strong> and <strong>Game Developer</strong> with a deep interest in <em>designing and building creative, efficient, and user-centered digital experiences</em>. Whether it's crafting dynamic web applications or developing interactive games, building things quietly and letting the work speak for itself as the ideas turns into real-world solutions through code.
+I'm an <strong>aspiring Full Stack Developer</strong> and <strong>Game Developer</strong> with a deep interest in <em>designing and building creative, efficient, and user-centered digital experiences</em>. Whether it's crafting dynamic web applications or developing interactive games, I believe in building things quietly and letting the work speak for itself as ideas turn into real-world solutions through code.
 </p>
 
 <p align="center">
